@@ -1,0 +1,7 @@
+baseURL = 'https://example.com/'
+languageCode = 'en-us'
+title = 'Joshuas Hugo Site'
+theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
