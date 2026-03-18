@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joshuas Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.com/</link>
     <description>Recent content on Joshuas Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 12:18:07 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 18:17:44 +0530</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>The Way I See Information (Unit 1)</title>
+      <link>https://example.com/posts/unit1/</link>
+      <pubDate>Mon, 16 Mar 2026 18:17:44 +0530</pubDate>
+      <guid>https://example.com/posts/unit1/</guid>
+      <description>&lt;h1 id=&#34;the-change-in-perspective&#34;&gt;The Change In Perspective&lt;/h1&gt;&#xA;&lt;p&gt;Before the start of my second semester, I did not know what I would learn in the course &amp;ldquo;&lt;strong&gt;Becoming A Reflective Information Scientist&lt;/strong&gt;&amp;rdquo;. I guessed it would be somewhere on the lines of &lt;em&gt;sociology&lt;/em&gt; and &lt;em&gt;philosophy&lt;/em&gt;, mostly because we were doing similar courses in college even when our actual domains were in the field of sciences. Looking back at it, the course title was quite self-explanatory.&#xA;To become a good information scientist one must not only know how to decipher information themselves but also have the ability to show that information in its most accurate and digestible form. We must be reflective individuals who can understand the data to its most basic forms and then show that information to the world. As Albert Einstein once said:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://example.com/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 12:18:07 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Hello! This is a &lt;strong&gt;test&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>https://example.com/posts/my-first-post/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;hello-im-joshua&#34;&gt;Hello, I&amp;rsquo;m Joshua&lt;/h2&gt;&#xA;&lt;p&gt;I am a first-year &lt;strong&gt;Information Science&lt;/strong&gt; student at &lt;strong&gt;Azim Premji University&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My ultimate ambition is to become a &lt;strong&gt;Cyber Security Expert&lt;/strong&gt;, specifically focusing on &lt;strong&gt;Penetration Testing&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This site is being launched as part of my course, &lt;strong&gt;&amp;ldquo;Becoming A Reflective Information Scientist.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;The more I learn, the more I realize how much I don&amp;rsquo;t know.&amp;quot; — *Albert Einstein&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Welcome to my reflection journey.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
