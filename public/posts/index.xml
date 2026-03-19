@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Joshuas Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 18:17:44 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 18:18:48 +0530</lastBuildDate>
     <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Transformation And Composition(Unit2)</title>
+      <link>https://example.com/posts/unit2/</link>
+      <pubDate>Mon, 16 Mar 2026 18:18:48 +0530</pubDate>
+      <guid>https://example.com/posts/unit2/</guid>
+      <description>&lt;h1 id=&#34;mixing-math-and-pixels&#34;&gt;Mixing Math and Pixels&lt;/h1&gt;&#xA;&lt;p&gt;After finishing Unit 1, we started off by learning about &lt;strong&gt;Image Transformations&lt;/strong&gt; and its types. It was quite fun and interesting to learn about the different ways we can view and transform images in our computers. It also introduced us to the concepts of &lt;strong&gt;Functions&lt;/strong&gt;. In math, I always thought functions were just &lt;em&gt;dry equations in a textbook or problem&lt;/em&gt;. But as we started to learn about how images transform and how functions are involved in it, it became more than just another mathematics symbol. It started to look like a machine that takes a pixel and transforms it into something new. And when we start chaining those machines together, we get a &lt;strong&gt;composite&lt;/strong&gt;. It gives us the ability to rotate, resize and blur images in one command rather than take 3 different steps.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Way I See Information (Unit 1)</title>
       <link>https://example.com/posts/unit1/</link>
