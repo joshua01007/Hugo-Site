@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joshuas Hugo Site</title>
-    <link>https://example.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Joshuas Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 16:14:58 +0530</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 May 2026 23:01:57 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final Group Presentations(Unit5)</title>
+      <link>http://localhost:1313/posts/unit5/</link>
+      <pubDate>Mon, 11 May 2026 23:01:57 +0530</pubDate>
+      <guid>http://localhost:1313/posts/unit5/</guid>
+      <description>&lt;h1 id=&#34;how-language-shows-internal-biases&#34;&gt;How Language Shows Internal Biases&lt;/h1&gt;&#xA;&lt;p&gt;One of the Group topics that stood out to me was &lt;strong&gt;Inclusive Terminology&lt;/strong&gt;. It was a topic I always talked about(or atleast tired to) with my father and people around me. Since I was a child, I was always surrounded by some form of sound equipment. In sound equipment, there are cables of multiple kinds. But most notably, there are sound jacks which you use to connect mics. The terminology used is &amp;ldquo;Male Jacks&amp;rdquo; and &amp;ldquo;Female Jacks&amp;rdquo;.&#xA;This Presentation by Group 7 once again sparked those thoughts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Typebot and Metabase Projects(Unit4)</title>
+      <link>http://localhost:1313/posts/unit4/</link>
+      <pubDate>Mon, 11 May 2026 23:01:51 +0530</pubDate>
+      <guid>http://localhost:1313/posts/unit4/</guid>
+      <description>&lt;h1 id=&#34;using-new-tools&#34;&gt;Using New Tools&lt;/h1&gt;&#xA;&lt;p&gt;In Unit 4, I learned how to use 2 new tools in some degree. The unit started off very strange as we didn&amp;rsquo;t really get any indication that we moved on from Unit 3. We were suddenly handed some projects on one of our Tuesday classes and made to learn the tools from scratch, without our instructors help. This combined with the fact that we were nearing the end of the semester and were piled with other course work meant we also were going to have troubles in time management.&#xA;&lt;strong&gt;But this was not the case&lt;/strong&gt;. It was, in my opinion, one the more fun units in our course syllabus.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Reflecting On Failure(Unit 3)</title>
-      <link>https://example.com/posts/unit3/</link>
+      <link>http://localhost:1313/posts/unit3/</link>
       <pubDate>Wed, 08 Apr 2026 16:14:58 +0530</pubDate>
-      <guid>https://example.com/posts/unit3/</guid>
+      <guid>http://localhost:1313/posts/unit3/</guid>
       <description>&lt;h1 id=&#34;learning-to-reflect-on-failure&#34;&gt;Learning To Reflect On Failure&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Failure should be our teacher, not our undertaker. Failure is delay, not defeat. It is a temporary detour, not a dead end. Failure is something we can avoid only by saying nothing, doing nothing, and being nothing.&lt;/em&gt;&#xA;~ Denis Waitley&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;In Unit 3, I learned a lot more than I expected. Failure is not about acknowledging a mistake but understanding why we make a mistake and think about how we handle the situation.&#xA;I recently had focused on the book &amp;ldquo;&lt;strong&gt;The Right Kind Of Wrong&lt;/strong&gt;&amp;rdquo; By &lt;em&gt;Amy Edmondson&lt;/em&gt;. My group, Group 1, was given the opportunity to read the Introduction for the book and summarize it for the class. I faced problems in covering the chapter due to its lengthy page count and the need to summarize the entire chapter in a few days. This combined with course work from other disciplines made it quite time-consuming. After summarizing and discussing with the group, I sat down and wrote the reflections I had for that chapter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learning Transformation And Composition(Unit2)</title>
-      <link>https://example.com/posts/unit2/</link>
+      <link>http://localhost:1313/posts/unit2/</link>
       <pubDate>Mon, 16 Mar 2026 18:18:48 +0530</pubDate>
-      <guid>https://example.com/posts/unit2/</guid>
+      <guid>http://localhost:1313/posts/unit2/</guid>
       <description>&lt;h1 id=&#34;mixing-math-and-pixels&#34;&gt;Mixing Math and Pixels&lt;/h1&gt;&#xA;&lt;p&gt;After finishing Unit 1, we started off by learning about &lt;strong&gt;Image Transformations&lt;/strong&gt; and its types. It was quite fun and interesting to learn about the different ways we can view and transform images in our computers. It also introduced us to the concepts of &lt;strong&gt;Functions&lt;/strong&gt;. In math, I always thought functions were just &lt;em&gt;dry equations in a textbook or problem&lt;/em&gt;. But as we started to learn about how images transform and how functions are involved in it, it became more than just another mathematics symbol. It started to look like a machine that takes a pixel and transforms it into something new. And when we start chaining those machines together, we get a &lt;strong&gt;composite&lt;/strong&gt;. It gives us the ability to rotate, resize and blur images in one command rather than take 3 different steps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Way I See Information (Unit 1)</title>
-      <link>https://example.com/posts/unit1/</link>
+      <link>http://localhost:1313/posts/unit1/</link>
       <pubDate>Mon, 16 Mar 2026 18:17:44 +0530</pubDate>
-      <guid>https://example.com/posts/unit1/</guid>
+      <guid>http://localhost:1313/posts/unit1/</guid>
       <description>&lt;h1 id=&#34;the-change-in-perspective&#34;&gt;The Change In Perspective&lt;/h1&gt;&#xA;&lt;p&gt;Before the start of my second semester, I did not know what I would learn in the course &amp;ldquo;&lt;strong&gt;Becoming A Reflective Information Scientist&lt;/strong&gt;&amp;rdquo;. I guessed it would be somewhere on the lines of &lt;em&gt;sociology&lt;/em&gt; and &lt;em&gt;philosophy&lt;/em&gt;, mostly because we were doing similar courses in college even when our actual domains were in the field of sciences. Looking back at it, the course title was quite self-explanatory.&#xA;To become a good information scientist one must not only know how to decipher information themselves but also have the ability to show that information in its most accurate and digestible form. We must be reflective individuals who can understand the data to its most basic forms and then show that information to the world. As Albert Einstein once said:&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://example.com/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 12:18:07 +0530</pubDate>
-      <guid>https://example.com/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;hello-im-joshua&#34;&gt;Hello, I&amp;rsquo;m Joshua&lt;/h2&gt;&#xA;&lt;p&gt;I am a first-year &lt;strong&gt;Information Science&lt;/strong&gt; student at &lt;strong&gt;Azim Premji University&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My ultimate ambition is to become a &lt;strong&gt;Cyber Security Expert&lt;/strong&gt;, specifically focusing on &lt;strong&gt;Penetration Testing&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This site is being launched as part of my course, &lt;strong&gt;&amp;ldquo;Becoming A Reflective Information Scientist.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;The more I learn, the more I realize how much I don&amp;rsquo;t know.&amp;quot; — *Albert Einstein&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Welcome to my reflection journey.&lt;/p&gt;</description>
     </item>
   </channel>
